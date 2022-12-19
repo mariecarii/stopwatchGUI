@@ -16,6 +16,9 @@ Open in your IDE. Create a new object. Run.
 This would be used by a large project that needed a timer aspect to it, such as a video game.
 
 ## Future Plans
-I would like to create a game where this stopwatch is a part of the time-tracking aspect. 
+I would like to create a game where this stopwatch is a part of the time-tracking aspect.
+
+## Credits
+Bro Code, YouTube
 
 
