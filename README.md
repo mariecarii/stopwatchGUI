@@ -1,6 +1,6 @@
 # stopwatchGUI
 <p>
-<img src="Project3_Screenshot.png" alt="console screenshot"/>
+<img src="StopwatchGUI_Screenshot.png" alt="console screenshot"/>
 </p>
 
 ## Project Description
